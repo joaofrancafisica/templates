@@ -1,0 +1,6 @@
+LSQ12gdj.json
+SN2005cf.json
+SN2007af.json
+SN2008ar.json
+SN2011fe.json
+SN2012fr.json
