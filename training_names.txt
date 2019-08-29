@@ -62,11 +62,9 @@ SN2013ew.json
 SN1972E.json
 SN2008bf.json
 SN2005el.json
-SN2005cc.json
 SN2008A.json
 SN2008bc.json
 SN1998bp.json
-SN2006gz.json
 SN1994D.json
 SN2008s1.json
 SN2009Y.json
