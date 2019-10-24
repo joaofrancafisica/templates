@@ -1,0 +1,5 @@
+SN2011hr.json
+SN2002fk.json
+SN1997bp.json
+SN2005cf.json
+SN2009aa.json
